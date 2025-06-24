@@ -1,0 +1,28 @@
+.cuadro {
+    margin: 0;
+      height: 100vh;
+      background: linear-gradient(to bottom, #f37261, #1e1e1e , #842cf2);
+      font-family: Arial, sans-serif;
+      color: white;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+}
+
+.imagen {
+    border-radius: 20px;
+    width: 300px;
+    margin-top: -450px;
+}
+
+.titulo {
+    margin-left: -260px;
+    font-size: 30px;
+    font-family: serif;
+}
+
+.nombre {
+    font-family: serif;
+    margin-top: 130px;
+    margin-left: -200px;
+}
