@@ -1,0 +1,10 @@
+.cuadro3 {
+    margin: 0;
+    height: 100vh;
+    background: linear-gradient(to bottom, #f37261, #1e1e1e , #842cf2);
+    font-family: Arial, sans-serif;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
