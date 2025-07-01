@@ -1,9 +1,8 @@
 .cuadro2 {
     margin: 0;
-    height: 100vh;
+    height: 100%;
     background: linear-gradient(to bottom, #f37261, #1e1e1e , #842cf2);
-    font-family: Arial, sans-serif;
-    color: white;
+    
     display: flex;
     justify-content: center;
     align-items: center;
@@ -12,13 +11,69 @@
 .Titulo {
     font-family: serif;
     font-size: 60px;
-    margin-top: -740px;
-    margin-left:-350px;
+    margin-top: -1200px;
+    margin-left:-200px;
+    color: white;
 }
 
 .descripcion {
     font-family: serif;
     font-size:15px; 
+    margin-left: -200px;
+    margin-top: -1000px;
+    color: white;
+}
+
+.articulo {
+    width: 500px;
+    height: 450px;
+    margin-top: -100px;
+    margin-left: -550px;
+}
+
+.burger {
+    width: 500px;
+    height: 450px;
+    margin-top: -100px;
+    margin-left: 150px;
+}
+
+.calculadora {
+    width: 500px;
+    height: 400px;
+    margin-top: 900px;
+    margin-left: -1060px;
+    
+}
+
+.hospital {
+    width: 500px;
+    height: 400px;
+    margin-top: 900px;
+    margin-left: 380px;
+}
+
+
+.proyecto {
+    color: white;
+    margin-left: -1000px;
+    margin-top: -800px;
+}
+
+.burgerbliss {
+    color: white;
+    margin-left: -150px;
+    margin-top: -800px;
+}
+
+.calcu {
+    color: white;
+    margin-left: -900px;
+    margin-top: 450px;
+}
+
+.Hospital {
+    color: white;
     margin-left: -300px;
-    margin-top: -450px;
+    margin-top: 450px;
 }
