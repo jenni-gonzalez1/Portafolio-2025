@@ -45,9 +45,66 @@
 }
 
 .instagram {
-    border-radius: 20px;
-    width: 50px;
-    height: 50px;
+    border-radius: 5px;
+    width: 40px;
+    height: 40px;
     margin-top: 450px;
-    margin-left: -450px;
+    margin-left: -400px;
+}
+
+.usuario-ig {
+    color: white;
+    margin-left: -1px;
+    font-size: 15px;
+    font-family: serif;
+    margin-top: 450px;
+    padding: 15px;
+}
+
+.Facebook {
+    border-radius: 5px;
+    width: 40px;
+    height: 40px;
+    margin-top: 600px;
+    margin-left: -155px;
+}
+
+.face {
+    border-radius: 5px;
+    width: 40px;
+    height: 40px;
+    margin-top: 600px;
+    margin-left: 15px;
+}
+
+.git {
+    border-radius: 5px;
+    width: 45px;
+    height: 45px;
+    margin-top: 750px;
+    margin-left: -95px;
+}
+
+.Git {
+    border-radius: 5px;
+    width: 40px;
+    height: 40px;
+    margin-top: 750px;
+    margin-left: 15px;
+}
+
+.tiktok {
+    border-radius: 5px;
+    width: 40px;
+    height: 40px;
+    margin-top: 890px;
+    margin-left: -95px;
+}
+
+.Tiktok {
+    border-radius: 5px;
+    width: 40px;
+    height: 40px;
+    margin-top: 900px;
+    margin-left: 15px;
 }
