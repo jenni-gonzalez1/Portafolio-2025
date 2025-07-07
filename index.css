@@ -77,5 +77,50 @@
 
 
 
+@media screen and (max-width: 768px) {
+    .cuadro {
+        flex-direction: column;
+        flex-wrap: wrap;
+        text-align: center;
+        padding: 20px;
+    }
+
+    .imagen {
+        width: 70%;
+        height: auto;
+        margin-top: 20px;
+        margin-left: 0;
+    }
+
+    .titulo {
+        font-size: 6vw;
+        margin-left: 0;
+        margin-top: 20px;
+    }
+
+    .nombre {
+        font-size: 5vw;
+        margin-top: 20px;
+        margin-left: 0;
+    }
+
+    .facebook,
+    .github,
+    .figma,
+    .ig {
+        margin: 10px auto;
+        margin-top: 30px;
+        display: inline-block;
+    }
+
+    .titulo2,
+    .titulo3,
+    .titulo4 {
+        font-size: 3.5vw;
+        margin-left: 0;
+        margin-top: 60px;
+        display: block;
+    }
+}
 
 
